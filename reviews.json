@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Ann Morawski",
+      "img": "./images/user1.jpg",
+      "text": "Person 1 Description"
+    },
+    {
+      "id": 2,
+      "name": "Jimmy Page",
+      "img": "./images/user2.jpg",
+      "text": "Person 2 Description"
+    },
+    {
+      "id": 3,
+      "name": "Karol Stefanski",
+      "img": "./images/user3.jpg",
+      "text": "Person 3 Description"
+    },
+    {
+      "id": 4,
+      "name": "Karoline Splitswick",
+      "img": "./images/user4.jpg",
+      "text": "Person 4 Description"
+    }
+  ]
+}
