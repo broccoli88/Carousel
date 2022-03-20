@@ -131,15 +131,3 @@ h1 {
 .random:active {
   background-color: teal;
 }
-
-.review-right {
-  transform: translateX(100vw);
-}
-
-.review-left {
-  transform: translateX(-100vw);
-}
-
-.review-center {
-  transform: translateX(0);
-}
